@@ -1,1 +1,1 @@
-C:30:"PHPUnit\Runner\TestResultCache":77:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:17:"testProduceBMWCar";d:0.145;}}}
+C:30:"PHPUnit\Runner\TestResultCache":77:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:17:"testProduceBMWCar";d:0.012;}}}
