@@ -26,6 +26,4 @@ class BuilderTest extends TestCase
         $myCar       = $carProducer->ProduceCar();
         $this->assertInstanceOf(BenzCar::class, $myCar);
     }
-
-
 }
